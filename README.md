@@ -1,4 +1,4 @@
-# Particle Tracker — Multi-Mode Cell Trajectory Analysis
+# Cerevisae Tracker — Multi-Mode Cell Trajectory Analysis
 
 A Streamlit application for tracking fluorescent particles/organelles in time-lapse microscopy images.  Supports three modes: single-cell tracking (Mode A), full-field batch analysis (Mode B), and statistical comparison of conditions (Mode C).
 
