@@ -46,8 +46,8 @@ A Streamlit application for tracking fluorescent particles/organelles in time-la
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/<your-org>/particle-tracker.git
-cd particle-tracker
+git clone https://github.com/ubcd-ibfg/cerevisae_tracker.git
+cd cerevisae_tracker
 
 # 2. Create a virtual environment (recommended)
 python -m venv .venv
@@ -288,22 +288,10 @@ All numeric thresholds, colour hex codes, figure sizes, and session-state key st
 - Qian, H. et al. (1991). *Single particle tracking: analysis of diffusion and flow in two-dimensional systems.* Biophys J 60, 910–921.
 
 ---
+## Authors
 
-## License
-
-[Specify your license here]
-
----
-
-## Citation
-
-If you use this software in your research, please cite:
-
-```
-Particle Tracker — Multi-Mode Cell Trajectory Analysis (v0.4.0)
-[Authors], [Institution], [Year]
-```
+Jesús Pinto Cruz (jpincru@gmail.com)
 
 ---
 
-*Last updated: 2026-04-29*
+*Last updated: 2026-11-06*
