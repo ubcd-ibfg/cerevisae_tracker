@@ -1,0 +1,30 @@
+# Claude Code — local per-project settings (permissions, hooks)
+.claude/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+.venv/
+venv/
+env/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Sample data (local only — too large for git)
+samples/
+recortes/
+test_files/
+
+# Analysis outputs
+exports/
+output/
+*.tif
+*.tiff
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
